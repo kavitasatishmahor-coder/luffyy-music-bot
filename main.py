@@ -4,9 +4,8 @@ import time
 import platform
 
 API_ID = 27959583
-API_HASH = API_ID = 27959583
 API_HASH = "034e953d9e1cfe6b08cc2b2a76c2011e"
-BOT_TOKEN = "8825900558:AAG_1k6FGP4-w_UzRWu-VuxG_hzrA6oJ3a8"
+BOT_TOKEN = "8825900558:AAFwkpG7VrrzGAn5gN0ujM8fjofFqjK_5p8"
 
 OWNER_USERNAME = "@brutal_luffy"
 UPDATES_CHANNEL = "https://t.me/brutal_luffy"
